@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    font-size: 15px;
+  }
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+
+    background: url('valo2.jpeg') center no-repeat;
+    background-size:cover;
+}
